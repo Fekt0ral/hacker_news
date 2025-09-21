@@ -1,6 +1,6 @@
 # Hacker News Bot
 
-[[Image](Y_Combinator_logo.svg.png)]
+![Image](https://github.com/Fekt0ral/hacker_news/raw/main/Y_Combinator_logo.svg.png)
 
 ## Описание
 
@@ -68,3 +68,4 @@ python ./hacker_news_bot.py
 ## Лицензия
 
 Проект распространяется под лицензией MIT. Вы можете свободно использовать, модифицировать и распространять код в соответствии с условиями лицензии.
+
