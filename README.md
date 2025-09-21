@@ -1,6 +1,6 @@
 # Hacker News Bot
 
-[[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fhacker-news-icon%2F&psig=AOvVaw1SRtmFfet_t_l8sFdTnEdB&ust=1758550735072000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjH-JGG6o8DFQAAAAAdAAAAABAE)]
+[[Image](Y_Combinator_logo.svg.png)]
 
 ## Описание
 
@@ -66,4 +66,5 @@ python ./hacker_news_bot.py
 5.  Создайте Pull Request.
 
 ## Лицензия
+
 Проект распространяется под лицензией MIT. Вы можете свободно использовать, модифицировать и распространять код в соответствии с условиями лицензии.
